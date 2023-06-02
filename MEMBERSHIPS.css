@@ -1,0 +1,140 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+                                       /* NAVBAR */
+.navbar {
+    box-shadow: 0px 5px 5px #000000 !important;
+}
+                                       /* CAROUSEL */
+#image img {
+    width: 100%;
+    height:800px;
+    margin-bottom: -9%!important;
+    margin-top: -20%!important;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+                                       /* CAROUSEL HEADING + PARA */
+.text-body-emphasis {
+    color:#000000!important;
+    text-align: center;
+    font-size: 40px;
+    /* font-family: 'Open Sans', sans-serif; */
+    font-family: 'Russo One', sans-serif;
+    text-shadow: 3px 3px 5px #ff0011;
+}
+.lead {
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    font-size: 18px;
+    color:#ffffff;
+}
+                                       /* PRICE TAGS */
+.card:hover {
+    box-shadow: 5px 5px 5px gray !important;
+}
+                                       /* HR */
+hr {
+    border: 2px solid #000000;
+}
+                                       /* MOTIVATIONAL VIDEO */
+#video{
+    display:block;
+    margin-left: auto!important;
+    margin-right: auto!important;
+}
+                                       /* DETAILED PLANS INFO */
+h3{
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    font-size: 50px;
+    text-shadow: 0px 8px 5px gray;
+    margin: 100px 0px 30px 0px!important;
+}
+.plan{
+    font-family: 'Russo One';
+    margin-left: auto!important;
+    margin-right: auto!important;
+    border:2px solid #000000;
+    padding:20px;
+    margin: 20px!important;
+    background-color: rgba(128, 128, 128, 0.529);
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px #000000;
+}
+                                       /* FORM + INFO */
+.row{
+    margin-left: auto!important;
+    margin-right: auto!important;
+    /* margin-top:5%!important; */
+}
+.row p{
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    font-size: 1.5em;
+}
+#form{
+    padding:6rem;
+    background-color:#343a40;
+    color:white;
+    border-radius: 10px;
+    /* border: 1px solid #000000; */
+    /* margin:10px; */
+    /* width:45%; */
+    /* display: inline-block; */
+}
+
+label{
+    font-family: 'Russo One', sans-serif;
+}
+input{
+    border-radius: 5px;
+    margin-bottom: 15px;
+    width: 50%;
+    padding-left:3%!important;
+    padding-right:3%!important;
+}
+
+input:hover{
+    box-shadow: 2px 2px 2px skyblue, -2px -2px 2px skyblue ;
+    /* border-color: skyblue; */
+}
+
+button{
+    margin:10px;
+    border-radius: 4px!important;
+}
+
+#info{
+    border-radius: 10px;
+    background-color: #ffff22;
+    padding:50px;
+    /* display: inline-block; */
+    /* width:50%; */
+    /* border: 1px solid #000000; */
+}
+h4{
+    font-size: 25px!important;
+    /* font-family: 'Russo One', sans-serif; */
+}
+#s1{
+    font-family: 'Russo One', sans-serif;
+    font-size: 30px;
+    color:#ff0022;
+    font-style: italic;
+}
+#s1:hover{
+    text-shadow: 0px 3px 7px #ff0022 ;
+    cursor: pointer;
+}
+#info p{
+    font-size: 20px;
+    font-family: 'Russo One', sans-serif;
+    font-weight: lighter;
+}
+
+span{
+    text-align: center!important;
+}

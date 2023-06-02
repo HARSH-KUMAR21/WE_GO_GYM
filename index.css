@@ -1,0 +1,9 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+
+.navbar {
+    box-shadow: 0px 5px 5px #000000;
+}
